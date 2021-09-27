@@ -11,6 +11,17 @@
 * Major : Smart IoT
 * Grade : Junior (2021)
 
+*****
+
+# Language
+|Language|Tool|
+|:---:|---|
+|Java|Eclipse|
+|C|VS Studio|
+|Python|VS Code|
+
+*****
+
 
 [junzero___o]: https://www.instagram.com/junzero___o/
 [hallym]: https://www.hallym.ac.kr
