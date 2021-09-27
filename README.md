@@ -7,3 +7,8 @@
 #### University : Hallym University 
 #### Major : Smart IoT
 
+> 취미 
+>> 게임  
+>> 운동  
+>> 여행  
+
