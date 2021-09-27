@@ -6,10 +6,11 @@
 
 *****
 
-# University
+# Achievment
+* [Donghwa HighSchool][donghwa]
 * [Hallym Unversity][hallym] Software Colleage 
-* Major : Smart IoT
-* Grade : Junior (2021)
+> Major : Smart IoT  
+> Grade : Junior (2021)
 
 *****
 
@@ -25,3 +26,4 @@
 
 [junzero___o]: https://www.instagram.com/junzero___o/
 [hallym]: https://www.hallym.ac.kr
+[donghwa]: https://www.donghwa.hs.kr
