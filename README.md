@@ -23,6 +23,9 @@
 * 딥러닝
 * 블록체인
 *******
+## 오픈소스 커뮤니티 
+[오픈소스 커뮤니티 파일](OpenSourceCommunity.md)
+*******
 * Jupyter Notebook
 * Tensorflow
 *******
@@ -33,7 +36,18 @@
 [구글][google]  
 [네이버][naver]
 
+|학년|언어|개발도구|
+|:---:|---|---|
+|1|[자바](http://www.oracle.com)|[Eclipse](eclipse)|
+|2|C|VS Code|
+|3|C++|VS Code|
+
+
+
+
+
 [google]: http://www.google.co.kr
 [naver]: http://www.naver.com
 [hallym]: http://www.hallym.ac.kr
+[eclipse]: http://www.oracle.org
 
