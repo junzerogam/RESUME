@@ -23,3 +23,5 @@
 * 딥러닝
 * 블록체인
 *******
+* Jupyter Notebook
+* Tensorflow
