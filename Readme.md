@@ -20,6 +20,7 @@
 |Java|Eclipse|
 |C|VS Studio|
 |Python|VS Code|
+|R|VS Code|
 
 *****
 
