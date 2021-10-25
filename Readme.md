@@ -25,7 +25,8 @@
 *****
 
 # Project
-
+* IoT Network Project (2021.05 - 2021.06)
+> IoT Network Lecture Project (Hallym University)
 *****
 
 
