@@ -27,6 +27,8 @@
 # Project
 * IoT Network Project (2021.05 - 2021.06)
 > IoT Network Lecture Project (Hallym University)
+* Kangwon SW BigData Project : Kangwon Tourism Data (2021.06 - 2021.07)
+> 강원관광테크 빅데이터 분석 
 *****
 
 
