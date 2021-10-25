@@ -18,7 +18,7 @@
 |Language|Tool|
 |:---:|---|
 |Java|Eclipse|
-|C|VS Studio|
+|C|VS Code|
 |Python|VS Code|
 |R|VS Code|
 
