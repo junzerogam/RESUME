@@ -12,6 +12,8 @@
 # Experience 
 * E-Land 자연별곡 (2017.01 - 2018.04)  
 -> Kitchen Part Mate, LeaderMate
+* OutBack Steakhouse SANGBONG (2020.03 - )  
+-> OutBacker, Trianer
 *****
 # Language
 |Language|Tool|
