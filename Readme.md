@@ -25,6 +25,7 @@
 -> 강원관광테크 빅데이터 분석 
 *****
 # Experience 
+### PartTime
 * E-Land 자연별곡 (2017.01 - 2018.04)  
 -> Kitchen Part Mate, LeaderMate
 * OutBack Steakhouse SANGBONG (2020.03 - )  
