@@ -3,15 +3,10 @@
 * Email : seize2237@naver.com 
 * instagram : [junzero___o][junzero___o]  
 <img src=profile.jpg width=200 height=200>    
-
-*****
-
-# Achievement
 * [Donghwa HighSchool][donghwa] (2013 ~ 2015)
 * [Hallym Unversity][hallym] Software Colleage (2017 ~ )  
 -> Major : Smart IoT  
 -> Grade : Junior (2021)
-
 *****
 
 # Language
