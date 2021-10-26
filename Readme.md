@@ -10,8 +10,8 @@
 -> Grade : Junior (2021)
 *****
 # Experience 
-* E-Land 자연별곡 주방  (2017.01 - 2018.04)
--> Mate, LeaderMate
+* E-Land 자연별곡 (2017.01 - 2018.04)  
+-> Kitchen Part Mate, LeaderMate
 *****
 # Language
 |Language|Tool|
