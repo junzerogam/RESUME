@@ -31,6 +31,8 @@
 * OutBack Steakhouse SANGBONG (2020.03 - )  
 -> OutBacker, Trianer
 ### Trip
+* Canada (2009.12 - 2010.09)  
+-> Edmonton, Banff, Vancouver
 *****
 
 
