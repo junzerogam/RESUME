@@ -33,6 +33,8 @@
 ### Trip
 * Canada (2009.12 - 2010.09)  
 -> Edmonton, Banff, Vancouver
+* Europe (2018.03)  
+-> London, Paris
 *****
 
 
