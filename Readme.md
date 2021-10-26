@@ -8,9 +8,9 @@
 
 # Achievment
 * [Donghwa HighSchool][donghwa] (2013 ~ 2015)
-* [Hallym Unversity][hallym] Software Colleage (2017 ~ )
-> Major : Smart IoT  
-> Grade : Junior (2021)
+* [Hallym Unversity][hallym] Software Colleage (2017 ~ )  
+-> Major : Smart IoT  
+-> Grade : Junior (2021)
 
 *****
 
