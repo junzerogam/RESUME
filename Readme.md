@@ -30,6 +30,7 @@
 -> Kitchen Part Mate, LeaderMate
 * OutBack Steakhouse SANGBONG (2020.03 - )  
 -> OutBacker, Trianer
+### Trip
 *****
 
 
