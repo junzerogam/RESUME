@@ -9,12 +9,6 @@
 -> Major : Smart IoT  
 -> Grade : Junior (2021)
 *****
-# Experience 
-* E-Land 자연별곡 (2017.01 - 2018.04)  
--> Kitchen Part Mate, LeaderMate
-* OutBack Steakhouse SANGBONG (2020.03 - )  
--> OutBacker, Trianer
-*****
 # Language
 |Language|Tool|
 |:---:|---|
@@ -24,12 +18,17 @@
 |R|VS Code|
 
 *****
-
 # Project
 * IoT Network Project (2021.05 - 2021.06)  
 -> IoT Network Lecture Project (Hallym University)
 * Kangwon SW BigData Project : Kangwon Tourism Data (2021.06 - 2021.07)  
 -> 강원관광테크 빅데이터 분석 
+*****
+# Experience 
+* E-Land 자연별곡 (2017.01 - 2018.04)  
+-> Kitchen Part Mate, LeaderMate
+* OutBack Steakhouse SANGBONG (2020.03 - )  
+-> OutBacker, Trianer
 *****
 
 
