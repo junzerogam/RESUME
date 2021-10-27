@@ -15,6 +15,7 @@
 |:---:|---|
 |Java|Eclipse|
 |C|VS Code|
+|C#|VS Studio|
 |Python|VS Code|
 |R|VS Code|
 
