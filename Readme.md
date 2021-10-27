@@ -2,7 +2,8 @@
 * Name : Kim Junyoung , 김준영 
 * Email : seize2237@naver.com 
 * instagram : [junzero___o][junzero___o]  
-<img src=profile.jpg width=300 height=300>    
+<img src=증명사진.jpeg width=300 height=400>  
+<img src=profile.jpg width=300 height=300>     
 
 * [Donghwa HighSchool][donghwa] (2013 ~ 2015)  
 * [Hallym Unversity][hallym] Software Colleage (2017 ~ )  
