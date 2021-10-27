@@ -31,7 +31,7 @@
 -> Kitchen Part Mate, LeaderMate
 * OutBack Steakhouse SANGBONG (2020.03 - )  
 -> OutBacker, Trianer
-<img src=OutbackerZero.jpg width=350 height=250>  
+<img src=OutbackerZero.jpg width=450 height=350>  
 
 ### Trip
 * Canada (2009.12 - 2010.09)  
