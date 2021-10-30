@@ -21,7 +21,7 @@
 
 *****
 # Project
-* IoT Network Project (2021.05 - 2021.06)  
+* [IoT Network Project][IoT] (2021.05 - 2021.06)  
 -> IoT Network Lecture Project (Hallym University)
 * Kangwon SW BigData Project : Kangwon Tourism Data (2021.06 - 2021.07)  
 -> 강원관광테크 빅데이터 분석 
@@ -45,3 +45,4 @@
 [junzero___o]: https://www.instagram.com/junzero___o/
 [hallym]: https://www.hallym.ac.kr
 [donghwa]: https://www.donghwa.hs.kr
+[IoT]: https://github.com/junzerogam/IoT-Network-Project
