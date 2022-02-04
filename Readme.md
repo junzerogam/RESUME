@@ -1,6 +1,6 @@
 # Zero's Profile
 * Name : Kim Junyoung , 김준영 
-* Email : seize2237@naver.com 
+* Email : junzero0615@gmail.com 
 * instagram : [junzero___o][junzero___o]  
 <img src=증명사진.jpeg width=300 height=400>  
 <img src=profile.jpg width=300 height=300>     
