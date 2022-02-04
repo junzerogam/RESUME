@@ -34,7 +34,7 @@
 -> OutBacker
 -> OutBack FOH Trainer
 -> OutBack FOH Key Manager
-<img src=OutbackerZero.jpg width=450 height=350>  
+<img src=HostZero.jpg width=300 height=300>  
 
 ### Trip
 * Canada (2009.12 - 2010.09)  
