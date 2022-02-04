@@ -9,6 +9,8 @@
 * [Hallym Unversity][hallym] Software Colleage (2017 ~ 2023)  
 -> Major : Smart IoT  
 -> Grade : Senior (2022)
+* [MoAI] Mobility AI Laboratory (2021.12 - )  
+-> Hallym University Software Colleage
 *****
 # Language
 |Language|Tool|
