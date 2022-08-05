@@ -1,4 +1,4 @@
-# Zero's Profile
+# Zero's Profile 
 * Name : Kim Junyoung , 김준영 
 * Email : junzero0615@gmail.com 
 * instagram : [junzero___o][junzero___o]  
@@ -11,7 +11,7 @@
 -> Hallym University Software Colleage
 
 *****
-# Project
+## Project
 * [IoT Network Project][IoT] (2021.05 - 2021.06)  
 -> IoT Network Lecture Project (Hallym University)
 * Kangwon SW BigData Project : Kangwon Tourism Data (2021.06 - 2021.07)  
@@ -21,7 +21,7 @@
 * [Software Capstone Design][capstone] (2022.02 - 2022.06)  
 -> Dream of Drone (Hallym Unversity)
 *****
-# Experience 
+## Experience 
 ### Study 
 * KCIS Summer Conference 2022 (2022.06)  
 -> Jeju, Korea
