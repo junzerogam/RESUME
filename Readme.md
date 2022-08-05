@@ -11,7 +11,7 @@
 -> Hallym University Software Colleage
 
 *****
-## Project
+## 💡 Project
 * [IoT Network Project][IoT] (2021.05 - 2021.06)  
 -> IoT Network Lecture Project (Hallym University)
 * Kangwon SW BigData Project : Kangwon Tourism Data (2021.06 - 2021.07)  
@@ -21,13 +21,13 @@
 * [Software Capstone Design][capstone] (2022.02 - 2022.06)  
 -> Dream of Drone (Hallym Unversity)
 *****
-## Experience 
-### Study 
+## 💡 Experience 
+### 🎓 Study 
 * KCIS Summer Conference 2022 (2022.06)  
 -> Jeju, Korea
 * York Summer Software Study (2022.07)  
 -> York University, United Kingdom  
-### PartTime
+### 🏃 PartTime
 * E-Land 자연별곡 (2017.01 - 2018.04)  
 -> Kitchen Part Mate, LeaderMate
 * OutBack SteakHouse SANGBONG (2020.03 - )  
@@ -36,12 +36,12 @@
 -> OutBack FOH Key Manager
 <img src=img/HostZero.jpg width=300 height=300>  
 
-### Trip
-* Canada (2009.12 - 2010.09)  
+### 📷 Trip
+* Canada 🇨🇦 (2009.12 - 2010.09)  
 -> Edmonton, Banff, Vancouver
-* Europe (2018.03)  
+* Europe 🇬🇧 🇫🇷 (2018.03)  
 -> London, Paris
-* Europe (2022.07)  
+* Europe 🇬🇧 🇫🇷(2022.07)  
 -> York, Paris, Brighton, London
 *****
 
