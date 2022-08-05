@@ -11,15 +11,6 @@
 -> Grade : Senior (2022)
 * [MoAI] Mobility AI Laboratory (2021.12 - )  
 -> Hallym University Software Colleage
-*****
-# Language
-|Language|Tool|
-|:---:|---|
-|Java|Eclipse|
-|C|VS Code|
-|C#|VS Studio|
-|Python|VS Code|
-|R|VS Code|
 
 *****
 # Project
