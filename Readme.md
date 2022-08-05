@@ -37,11 +37,11 @@
 <img src=img/HostZero.jpg width=300 height=300>  
 
 ### 📷 Trip
-* Canada 🇨🇦 (2009.12 - 2010.09)  
+* Canada (2009.12 - 2010.09)  
 -> Edmonton, Banff, Vancouver
-* Europe 🇬🇧 🇫🇷 (2018.03)  
+* Europe (2018.03)  
 -> London, Paris
-* Europe 🇬🇧 🇫🇷(2022.07)  
+* Europe (2022.07)  
 -> York, Paris, Brighton, London
 *****
 
