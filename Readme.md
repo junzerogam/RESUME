@@ -18,7 +18,9 @@
 * Kangwon SW BigData Project : Kangwon Tourism Data (2021.06 - 2021.07)  
 -> 강원관광테크 빅데이터 분석 
 * [Embedded System Project][Emb] (2021.10 - 2021.12)  
--> Embedded System Lecture Project (Hallym University)
+-> Embedded System Lecture Project (Hallym University)  
+* [Software Capstone Design][capstone] (2022.02 - 2022.06)  
+-> Dream of Drone (Hallym Unversity)
 *****
 # Experience 
 ### Study 
@@ -50,3 +52,4 @@
 [donghwa]: https://www.donghwa.hs.kr
 [IoT]: https://github.com/junzerogam/IoT-Network-Project
 [Emb]: https://github.com/junzerogam/Embedded-System-Project
+[capstone]: https://github.com/junzerogam/DreamofDrone
