@@ -3,8 +3,7 @@
 * Email : junzero0615@gmail.com 
 * instagram : [junzero___o][junzero___o]  
 <img src=img/증명사진.jpeg width=300 height=400>       
-
-* [Donghwa HighSchool][donghwa] (2013 ~ 2015)  
+  
 * [Hallym Unversity][hallym] Software Colleage (2017 ~ 2023)  
 -> Major : Smart IoT  
 -> Grade : Senior (2022)
@@ -49,7 +48,6 @@
 
 [junzero___o]: https://www.instagram.com/junzero___o/
 [hallym]: https://www.hallym.ac.kr
-[donghwa]: https://www.donghwa.hs.kr
 [IoT]: https://github.com/junzerogam/IoT-Network-Project
 [Emb]: https://github.com/junzerogam/Embedded-System-Project
 [capstone]: https://github.com/junzerogam/DreamofDrone
