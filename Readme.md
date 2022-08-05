@@ -2,8 +2,7 @@
 * Name : Kim Junyoung , 김준영 
 * Email : junzero0615@gmail.com 
 * instagram : [junzero___o][junzero___o]  
-<img src=증명사진.jpeg width=300 height=400>  
-<img src=profile.jpg width=300 height=300>     
+<img src=img/증명사진.jpeg width=300 height=400>       
 
 * [Donghwa HighSchool][donghwa] (2013 ~ 2015)  
 * [Hallym Unversity][hallym] Software Colleage (2017 ~ 2023)  
@@ -29,7 +28,7 @@
 -> OutBacker
 -> OutBack FOH Trainer
 -> OutBack FOH Key Manager
-<img src=HostZero.jpg width=300 height=300>  
+<img src=img/HostZero.jpg width=300 height=300>  
 
 ### Trip
 * Canada (2009.12 - 2010.09)  
