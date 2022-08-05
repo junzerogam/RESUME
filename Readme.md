@@ -8,7 +8,7 @@
 * [Hallym Unversity][hallym] Software Colleage (2017 ~ 2023)  
 -> Major : Smart IoT  
 -> Grade : Senior (2022)
-* [MoAI] Mobility AI Laboratory (2021.12 - )  
+* [MoAI][moai] Mobility AI Laboratory (2021.12 - )  
 -> Hallym University Software Colleage
 
 *****
@@ -53,3 +53,4 @@
 [IoT]: https://github.com/junzerogam/IoT-Network-Project
 [Emb]: https://github.com/junzerogam/Embedded-System-Project
 [capstone]: https://github.com/junzerogam/DreamofDrone
+[moai]: https://sites.google.com/view/moai-lab
