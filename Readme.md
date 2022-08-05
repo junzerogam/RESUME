@@ -21,6 +21,9 @@
 -> Embedded System Lecture Project (Hallym University)
 *****
 # Experience 
+### Study 
+* York Summer Software Study (2022.07)  
+-> York University, England  
 ### PartTime
 * E-Land 자연별곡 (2017.01 - 2018.04)  
 -> Kitchen Part Mate, LeaderMate
@@ -35,6 +38,8 @@
 -> Edmonton, Banff, Vancouver
 * Europe (2018.03)  
 -> London, Paris
+* Europe (2022.07)  
+-> York, Paris, Brighton, London
 *****
 
 
