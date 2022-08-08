@@ -1,14 +1,16 @@
 # Zero's Github
 ## 😃 Profile 
-* Name : Kim Junyoung , 김준영 
-* Email : junzero0615@gmail.com 
-* instagram : [junzero___o][junzero___o]  
-<img src=img/증명사진.jpeg width=300 height=400>       
-  
-* [Hallym Unversity][hallym] Software Colleage (2017 ~ 2023)  
+   
+<img src=img/증명사진.jpeg width=300 height=400>
+
+:bust_in_silhouette: Kim Junyoung , 김준영    
+:e-mail:   junzero0615@gmail.com   
+:camera:   [junzero___o][junzero___o]<br> 
+
+:school: [Hallym Unversity][hallym] Software Colleage (2017 ~ 2023)  
 -> Major : Smart IoT  
--> Grade : Senior (2022)
-* [MoAI][moai] Mobility AI Laboratory (2021.12 - )  
+-> Grade : Senior (2022)  
+:office: [MoAI][moai] Mobility AI Laboratory (2021.12 - )  
 -> Hallym University Software Colleage
 
 *****
