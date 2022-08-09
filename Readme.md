@@ -28,13 +28,14 @@
 ## 💡 Experience 
 ### 🎓 Study 
 * KCIS Summer Conference 2022 (2022.06)  
--> 한국통신학회 하계학술대회 Jeju, Korea
+-> Jeju, Korea  
+-> 한국통신학회 하계학술대회
 * York Summer Software Study (2022.07)  
 -> York University, United Kingdom  
 ### 🏃 PartTime
 * E-Land 자연별곡 (2017.01 - 2018.04)  
 -> Kitchen Part Mate, LeaderMate
-* OutBack SteakHouse SANGBONG (2020.03 - )  
+* BHC OutBack SteakHouse SANGBONG (2020.03 - )  
 -> OutBacker
 -> OutBack FOH Trainer
 -> OutBack FOH Key Manager
