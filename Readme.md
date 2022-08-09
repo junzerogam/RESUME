@@ -8,10 +8,11 @@
 :camera:   [junzero___o][junzero___o]<br> 
 
 :school: [Hallym Unversity][hallym] Software Colleage (2017 ~ 2023)  
--> Major : Smart IoT  
--> Grade : Senior (2022)  
+* Major : Smart IoT  
+* Grade : Senior (2022)  
+
 :office: [MoAI][moai] Mobility AI Laboratory (2021.12 - )  
--> Hallym University Software Colleage
+* Hallym University Software Colleage
 
 *****
 ## 💡 Project
@@ -27,6 +28,7 @@
 ## 💡 Experience 
 ### 🎓 Study 
 * KCIS Summer Conference 2022 (2022.06)  
+-> 한국통신학회 하계학술대회
 -> Jeju, Korea
 * York Summer Software Study (2022.07)  
 -> York University, United Kingdom  
