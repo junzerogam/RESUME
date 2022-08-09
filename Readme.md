@@ -28,8 +28,7 @@
 ## 💡 Experience 
 ### 🎓 Study 
 * KCIS Summer Conference 2022 (2022.06)  
--> 한국통신학회 하계학술대회
--> Jeju, Korea
+-> 한국통신학회 하계학술대회 Jeju, Korea
 * York Summer Software Study (2022.07)  
 -> York University, United Kingdom  
 ### 🏃 PartTime
